@@ -2,5 +2,5 @@
 Nasa App Challenges
 ## Arduino
 <p align="center">
-  <img src="img/arduino.jpg" width="350"/>
+  <img src="img/arduino.jpg"/>
 </p>
