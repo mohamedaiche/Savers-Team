@@ -4,7 +4,7 @@ Nasa App Challenges
 <p align="center">
   <img src="img/device.jpg" width="500px"/><br>
  </p>
-### Auto System Configuration
+<h2> Auto System Configuration</h2>
  <p align="center">
   <img src="img/auto1.png" width="500px"/><br>
   <img src="img/auto2.png" width="500px"/><br>
