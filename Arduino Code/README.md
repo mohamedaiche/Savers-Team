@@ -1,8 +1,6 @@
 # Savers-Team
 Nasa App Challenges
-##Arduino
+## Arduino
 <p align="center">
   <img src="img/arduino.jpg" width="350"/>
 </p>
-![panel](img/arduino.jpg)
-
