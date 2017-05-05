@@ -1,6 +1,6 @@
 # Savers-Team
 Nasa App Challenges
-## Application Pictures
+## Website Pictures
 <p align="center">
   <img src="../../img/web1.png" width="350px"/><br>
   <img src="../../img/web2.png" width="350px"/><br>
